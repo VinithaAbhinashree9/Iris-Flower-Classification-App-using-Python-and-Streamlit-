@@ -26,7 +26,7 @@ A Machine Learning web app built using Streamlit and Logistic Regression to clas
 ```bash
 iris-classification/
 │
-├── app.py
+├── iris.py
 ├── requirements.txt
 ├── README.md
 
