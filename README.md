@@ -50,7 +50,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/yVinithaAbhinashree9/iris-classification.git
+git clone  https://github.com/VinithaAbhinashree9/Iris-Flower-Classification-App-using-Python-and-Streamlit-.git
 
 Move into the project folder:
 
