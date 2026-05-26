@@ -30,7 +30,7 @@ iris-classification/
 ├── requirements.txt
 ├── README.md
 
-📊 Dataset
+Dataset
 
 This project uses the built-in Iris Dataset from Scikit-learn.
 
