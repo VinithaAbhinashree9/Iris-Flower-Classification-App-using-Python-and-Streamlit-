@@ -1,6 +1,7 @@
 # Iris Flower Classification App Using Python and Streamlit 
 
 A Machine Learning web app built using Streamlit and Logistic Regression to classify Iris flower species based on flower measurements.
+<img width="1913" height="883" alt="Screenshot 2026-05-26 122122" src="https://github.com/user-attachments/assets/bb8c2b39-0826-4865-95bf-66caad22331f" />
 
 ##  Features
 
